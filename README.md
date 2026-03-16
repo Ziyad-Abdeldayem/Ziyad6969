@@ -26,6 +26,6 @@ Computer Science student focused on **web security**, **CTFs**, and **practical 
 ---
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Ziyad6969&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Ziyad6969&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyad6969&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ziyad-Abdeldayem&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Ziyad-Abdeldayem&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyad-Abdeldayem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
